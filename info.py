@@ -79,8 +79,8 @@ if SELF_DELETE == "False":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-
 DOWNLOAD_TEXT_URL = "https://t.me/How_To_Open_Shotner_Links"
+
 
 
    # C Caption Under Button #

@@ -81,13 +81,13 @@ if SELF_DELETE == "False":
 
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 
-DOWNLOAD_TEXT_URL = "https://t.me/How_To_Open_Shotner_Links"
+DOWNLOAD_TEXT_URL = "https://t.me/How_To_Open_Shortner_Links"
 
    # Custom Caption Under Button #
 
 CAPTION_BUTTON = "Subscribe"
 
-CAPTION_BUTTON_URL = "https://t.me/How_To_Open_Shotner_Links"
+CAPTION_BUTTON_URL = "https://t.me/How_To_Open_Shortner_Links"
 
    # Auto Delete For Bot Sending Files #
 
